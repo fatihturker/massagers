@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/fatihturker/AndroidStudioProjects/Massagers/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a96b762bde4139de855735f175ec4d17dca55a6d">
+        <dex dex="/Users/fatihturker/AndroidStudioProjects/Massagers/app/build/intermediates/pre-dexed/debug/classes-f15c3de76a6fd6e1ff7d866d1572d4f3a23eef26.jar" />
+    </item>
+    <item
+        jar="/Users/fatihturker/AndroidStudioProjects/Massagers/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e3d791b42eaa90416cd0b2d2e608092794a3baa4">
+        <dex dex="/Users/fatihturker/AndroidStudioProjects/Massagers/app/build/intermediates/pre-dexed/debug/classes-9fba8e31ec51b40bde4bacfdcba8f44fbc9c9992.jar" />
+    </item>
+    <item
+        jar="/Users/fatihturker/AndroidStudioProjects/Massagers/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a08d65794b844d8e7540bf9a33859bf3b2482d7f">
+        <dex dex="/Users/fatihturker/AndroidStudioProjects/Massagers/app/build/intermediates/pre-dexed/debug/classes-34262b9882569edcaeb3c8a470c3955fe385b591.jar" />
+    </item>
+    <item
+        jar="/Users/fatihturker/AndroidStudioProjects/Massagers/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4c93d99d454c975536bbe3b42283eee847f03ea3">
+        <dex dex="/Users/fatihturker/AndroidStudioProjects/Massagers/app/build/intermediates/pre-dexed/debug/classes-1870359017b291988b49fd0fe331f279743b3b03.jar" />
+    </item>
+    <item
+        jar="/Users/fatihturker/AndroidStudioProjects/Massagers/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d84409890828e07d344a3b9b1da545dba9897b51">
+        <dex dex="/Users/fatihturker/AndroidStudioProjects/Massagers/app/build/intermediates/pre-dexed/debug/classes-851cad2281697c1e4f44b925f3c237c091fa92f6.jar" />
+    </item>
+    <item
+        jar="/Users/fatihturker/AndroidStudioProjects/Massagers/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="0e8228b4bc69c6a2c8d7c18498a77e53417d2574">
+        <dex dex="/Users/fatihturker/AndroidStudioProjects/Massagers/app/build/intermediates/pre-dexed/debug/classes-ac48b3787bb56eaa16ba47973784b0106b6fe54f.jar" />
+    </item>
+    <item
+        jar="/Users/fatihturker/AndroidStudioProjects/Massagers/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="3033cc3a2c68dff3e5b646d6d084bdbdf7d00b25">
+        <dex dex="/Users/fatihturker/AndroidStudioProjects/Massagers/app/build/intermediates/pre-dexed/debug/classes-1bddcd9fb602d67646b9bee94ce5f2dd8df680d1.jar" />
+    </item>
+    <item
+        jar="/Users/fatihturker/AndroidStudioProjects/Massagers/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="055783146ba9654a725442563be78cad303aad1f">
+        <dex dex="/Users/fatihturker/AndroidStudioProjects/Massagers/app/build/intermediates/pre-dexed/debug/classes-366b69e1ffd40011b3b9d1a3188ae095186d818b.jar" />
+    </item>
+    <item
+        jar="/Users/fatihturker/AndroidStudioProjects/Massagers/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1c5a76debf0c2857ccad422c4a80ed785982f8df">
+        <dex dex="/Users/fatihturker/AndroidStudioProjects/Massagers/app/build/intermediates/pre-dexed/debug/classes-8f4f414cae47e332c75f0e47c00c1c72ac87c5af.jar" />
+    </item>
+    <item
+        jar="/Users/fatihturker/AndroidStudioProjects/Massagers/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="fb04b12526b0073c7fb1ebb70c5842d82ee95596">
+        <dex dex="/Users/fatihturker/AndroidStudioProjects/Massagers/app/build/intermediates/pre-dexed/debug/classes-ab86c526b5a549e51384d376f611b8a27907119f.jar" />
+    </item>
+    <item
+        jar="/Users/fatihturker/AndroidStudioProjects/Massagers/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="ef5f051e7308febe289dc93c67c5f32785b4260a">
+        <dex dex="/Users/fatihturker/AndroidStudioProjects/Massagers/app/build/intermediates/pre-dexed/debug/classes-d7f2dd4868ed0c55e69b074b67ada510180fda70.jar" />
+    </item>
+    <item
+        jar="/Users/fatihturker/AndroidStudioProjects/Massagers/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="73ccb92b70112f2e463e415ef8d7275de7da6516">
+        <dex dex="/Users/fatihturker/AndroidStudioProjects/Massagers/app/build/intermediates/pre-dexed/debug/classes-903b212bc127a0d3cad470881df6c3de3961bae1.jar" />
+    </item>
+    <item
+        jar="/Users/fatihturker/AndroidStudioProjects/Massagers/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c976518693e89ad44fbfccfc654941eaec198d08">
+        <dex dex="/Users/fatihturker/AndroidStudioProjects/Massagers/app/build/intermediates/pre-dexed/debug/classes-eb027ca700c2ffed5b9fbd00827d83302d2b9929.jar" />
+    </item>
+    <item
+        jar="/Users/fatihturker/AndroidStudioProjects/Massagers/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/libs/internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="/Users/fatihturker/AndroidStudioProjects/Massagers/app/build/intermediates/pre-dexed/debug/internal_impl-22.0.0-14b83a56b39df8132cc3862d6f636d0e239ce4c7.jar" />
+    </item>
+    <item
+        jar="/Users/fatihturker/AndroidStudioProjects/Massagers/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="41b3870cbe5fa546d8095b5b89d42cb69f3dd175">
+        <dex dex="/Users/fatihturker/AndroidStudioProjects/Massagers/app/build/intermediates/pre-dexed/debug/classes-86dc26856cd5228e712fe6648f70ff2a714e6786.jar" />
+    </item>
+    <item
+        jar="/Users/fatihturker/AndroidStudioProjects/Massagers/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="9224bc4c54ba95147c7eabd874573763c07cb6be">
+        <dex dex="/Users/fatihturker/AndroidStudioProjects/Massagers/app/build/intermediates/pre-dexed/debug/classes-723279ac3dd338114bb605d9724a07e7f39510d6.jar" />
+    </item>
+    <item
+        jar="/Users/fatihturker/AndroidStudioProjects/Massagers/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="17f8750d5c0749e44dd7c54aa390d9c937803825">
+        <dex dex="/Users/fatihturker/AndroidStudioProjects/Massagers/app/build/intermediates/pre-dexed/debug/classes-8c0dc5d929acda6029d31462d4a95a2d4afadc41.jar" />
+    </item>
+    <item
+        jar="/Users/fatihturker/AndroidStudioProjects/Massagers/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appstate/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="7ff613bf78ab057293892fdbd4169eda899c89b9">
+        <dex dex="/Users/fatihturker/AndroidStudioProjects/Massagers/app/build/intermediates/pre-dexed/debug/classes-613996a1debedba1dd1cef6ca4194066fb0cd679.jar" />
+    </item>
+    <item
+        jar="/Users/fatihturker/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/22.0.0/support-annotations-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex dex="/Users/fatihturker/AndroidStudioProjects/Massagers/app/build/intermediates/pre-dexed/debug/support-annotations-22.0.0-1ed9496664301ff3bc3b44b7c0fc70f487a5f293.jar" />
+    </item>
+    <item
+        jar="/Users/fatihturker/AndroidStudioProjects/Massagers/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="3c0b099f9de16b265ecd6122fcb603e7d0d29f90">
+        <dex dex="/Users/fatihturker/AndroidStudioProjects/Massagers/app/build/intermediates/pre-dexed/debug/classes-5f3b804aac6f805ccb919805c2a09b531abab160.jar" />
+    </item>
+    <item
+        jar="/Users/fatihturker/AndroidStudioProjects/Massagers/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4cd0b093824b3228fffc21ea369b98d0b1db6566">
+        <dex dex="/Users/fatihturker/AndroidStudioProjects/Massagers/app/build/intermediates/pre-dexed/debug/classes-d896e96ee7a3127ea733cd9192927c700ecb5ac3.jar" />
+    </item>
+    <item
+        jar="/Users/fatihturker/AndroidStudioProjects/Massagers/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="/Users/fatihturker/AndroidStudioProjects/Massagers/app/build/intermediates/pre-dexed/debug/classes-1e7b12ba07b49d0ba9d0994799dc16c2b20caa2d.jar" />
+    </item>
+    <item
+        jar="/Users/fatihturker/AndroidStudioProjects/Massagers/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="29fd6d3794b71491c2789708cd8d03c71feb8954">
+        <dex dex="/Users/fatihturker/AndroidStudioProjects/Massagers/app/build/intermediates/pre-dexed/debug/classes-b05e3927ddf5353fb82e379755f62e9e5dc4535d.jar" />
+    </item>
+
+</items>
